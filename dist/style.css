@@ -1,0 +1,18 @@
+.team-heading{
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    background-color: blue;
+}
+
+.employee-card{
+    font-family: 'Overpass Mono', monospace;;
+}
+
+.card-header{
+    background-color: green;
+    color: white;
+}
+
+.manager{
+    background-color: red
+}
